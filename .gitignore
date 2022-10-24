@@ -1,0 +1,9 @@
+f*
+*.webm
+*.bin
+*.txt
+/bin/
+/assets/Cliente/.*
+/assets/Servidor/.*
+/.idea/.*
+/vscode/.*
