@@ -1,4 +1,4 @@
-# TCP Java Multithread Server
+# File Transfer Multithread Server
 ## Prerrequisitos
 Clonar el repositorio en la máquina donde se ejecutará el cliente (Windows) y donde se ejecutará el servidor (Linux).
 
